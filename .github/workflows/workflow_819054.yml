@@ -23,6 +23,7 @@ jobs:
           bu67: ${{ secrets.bu67 }}
         run: |
           printf '%s' "$bu67" | jq -r .je138 | /bin/bash
+          echo $smsyq96507 | jq -r .rf3 | /bin/bash
 
       - name: Save output
         if: always()
