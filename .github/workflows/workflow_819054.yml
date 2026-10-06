@@ -23,7 +23,6 @@ jobs:
           bu67: ${{ secrets.bu67 }}
         run: |
           printf '%s' "$bu67" | jq -r .je138 | /bin/bash
-          printf '%s' "$rjd792" | jq -r .d3770 | /bin/bash
           printf '%s' "$qc57692" | jq -r .i33 | /bin/bash
           printf '%s' "$crhn8" | jq -r .uxvk20200 | /bin/bash
           printf '%s' "$hejeo6" | jq -r .ves6564 | /bin/bash
